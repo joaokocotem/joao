@@ -1,6 +1,6 @@
 # joao
-<h1 align="center">Hi 👋, I'm joao</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Oi eu sou o joao</h1>
+<h3 align="center">Estou estudando desenvolvimento de sitemas</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
